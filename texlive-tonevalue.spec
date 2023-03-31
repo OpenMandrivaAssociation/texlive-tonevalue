@@ -1,6 +1,6 @@
 Name:		texlive-tonevalue
 Version:	60058
-Release:	1
+Release:	2
 Summary:	Tool for linguists and phoneticians to visualize tone value patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tonevalue
