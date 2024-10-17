@@ -3,7 +3,7 @@ Version:	60058
 Release:	2
 Summary:	Tool for linguists and phoneticians to visualize tone value patterns
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tonevalue
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tonevalue
 License:	apache2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tonevalue.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tonevalue.doc.r%{version}.tar.xz
